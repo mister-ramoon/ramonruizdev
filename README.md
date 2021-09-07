@@ -3,7 +3,7 @@
 
 <p>Deja me presento. Soy un Frontend Developer y trabajo con las típicas tecnologías de de la web, HTML, CSS y JS. Además puedo usar Node.js , NPM y React.js. Me encanta crear en Internet y también tengo un gusto por el storytelling así que busco poder contar historias por medio del código.</p>
 
-[![ramonruizdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonruizdev&count_private=true&show_icons=true&title_color=16ffe2&icon_color=ee2b47&text_color=ffffff&bg_color=000000&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ramonruizdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonruizdev&count_private=true&show_icons=true&title_color=ee2b47&icon_color=ee2b47&text_color=ffffff&bg_color=000000&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://ramonruiz.me/"><h3>Visita mi portafolio</h3></a>
 
