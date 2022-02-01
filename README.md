@@ -31,7 +31,7 @@ me@ramonruiz.dev
 ## 🔬 &nbsp;&nbsp;Find me online:
 <p align="center">
   <a href="https://ramonruiz.me" target="_blank"><img width="50" alt="Website" title="Website" align="center"    src="https://firebasestorage.googleapis.com/v0/b/ramonruizdev.appspot.com/o/Icons%2Flogo.svg?alt=media&token=2f30006f-b94d-44e4-8681-9d20aaf3406a" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ramonruizrocha/" target="_blank"><img width="50" alt="Linkedin" title="Linkedin" align="center"        src="https://firebasestorage.googleapis.com/v0/b/ramonruizdev.appspot.com/o/Icons%2FLinkedin.svg?alt=media&token=32a6f202-63b9-467f-9e5a-1c3588f0290d"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ramonruizdev/" target="_blank"><img width="50" alt="Linkedin" title="Linkedin" align="center"        src="https://firebasestorage.googleapis.com/v0/b/ramonruizdev.appspot.com/o/Icons%2FLinkedin.svg?alt=media&token=32a6f202-63b9-467f-9e5a-1c3588f0290d"/></a>&nbsp;&nbsp;
   <a href="https://twitter.com/ramonruizdev" target="_blank"><img width="50" alt="Twitter" title="Twitter" align="center"    src="https://firebasestorage.googleapis.com/v0/b/ramonruizdev.appspot.com/o/Icons%2FTwitter.svg?alt=media&token=c21af1e6-c919-4e68-8d86-0408246971e7" /></a>
 </p>
 
