@@ -1,6 +1,6 @@
 # Ramón Ruiz ✌️  ![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
 
-Hi, I'm Ramon Ruiz, a frontend developer. I work with JavaScript🟨 using React JS🟦. I also like to create amazing things using CSS. You can visit my work here https://ramonruiz.dev/💻
+Hi, I'm Ramon Ruiz, a frontend developer. I work with JavaScript🟨 using React JS🟦. I also like to create amazing things using CSS. You can visit my work here https://ramonruiz.dev/ 💻
 
 💚 I am part of Platzi Master, the community of developers who never stop learning in Latin America.
 
